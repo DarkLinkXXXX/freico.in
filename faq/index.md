@@ -9,11 +9,11 @@ title: Frequently asked questions about Freicoin
 
 <h3>Monetary system</h3>
 
-<p><strong>Q:</strong> What's wrong with modern financial system?<br/>
-<strong>A:</strong> In current system money created by private organizations (banks), which lend them to other people. It's generates inequality - one should earn money, other gets them automatically.</p>
+<p><strong>Q:</strong> What's wrong with the modern financial system?<br/>
+<strong>A:</strong> In the current system money is created by private organizations (banks), which lend them to other people. It's generates inequality - one should earn money, these people get them automatically.</p>
 
-<p><strong>Q:</strong> But money created by government, is not it?<br/>
-<strong>A:</strong> No. Government not creates a money. Paper money are created by independent agency, called Central Bank. But cash is only 3% of all money. Most of them - electronic money. Commertial banks creates them when give credits. So government have almost no control over money distribution.</p>
+<p><strong>Q:</strong> But money is created by the government, isn't it?<br/>
+<strong>A:</strong> No. Government does not create money. Paper money is created by an independent agency, called Central Bank. But cash is only 3% of all money. Most of them are electronic money. Commertial banks creates them when give credits. So government have almost no control over money distribution.</p>
 
 <p><strong>Q:</strong> You tell doubtful things. It can't be so!<br/>
 <strong>A:</strong> These facts confirmed by many researches. For example, <a href="http://www.positivemoney.org/">Positive Money</a> according to UK economy and <a href="http://www.webofdebt.com/">Web Of Debt</a> according to US economy. You can look documental movie <a href="http://youtu.be/jqvKjsIxT_8">Money As Debt</a> if still in doubts.</p>
